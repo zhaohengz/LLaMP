@@ -1,7 +1,7 @@
 # Large Language Models are Good Prompt Learners for Low-Shot Image Classification [CVPR 2024]
 
 > [**Large Language Models are Good Prompt Learners for Low-Shot Image Classification**](https://arxiv.org/abs/2305.16681)<br>
-> [Zhaoheng Zheng](https://zhaohengz.github.io/), [Jingmin Wei](https://github.com/Weijingmin2000), [Xuefeng Hu](https://xuefenghu.me/), [Haidong Zhu](https://haidongz.github.io) and [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
+> [Zhaoheng Zheng](https://zhaohengz.github.io/), [Jingmin Wei](https://github.com/Weijingmin2000), [Xuefeng Hu](https://xuefenghu.me/), [Haidong Zhu](https://haidongz-usc.github.io/) and [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
 
 Official implementation of [Large Language Models are Good Prompt Learners for Low-Shot Image Classification](https://arxiv.org/abs/2312.040761).
 
