@@ -98,7 +98,7 @@ If you find LLaMP useful in your research, please consider citing:
 @InProceedings{Zheng_2024_Large,
   	title={Large Language Models are Good Prompt Learners for Low-Shot Image Classification},
   	author={Zheng, Zhaoheng and Wei, Jingmin and Hu, Xuefeng and Zhu, Haidong and Nevatia, Ram},
-    booktitle = {CVPR},
-    year      = {2024},
+    	booktitle = {CVPR},
+    	year      = {2024},
 }
 ```
