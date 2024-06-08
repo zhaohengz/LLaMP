@@ -1,0 +1,17 @@
+---
+experiment:
+  data_dir:  
+  dataset: 'UCF101'
+model_params:
+  model_base: meta-llama/Llama-2-7b-chat-hf
+training:
+  eval_val_every: 1
+  load: 
+  max_epochs: 50
+  save_every: 10000
+  batch_size: 4
+  test_batch_size: 16
+  test_set: test
+  topk: 1
+  workers: 8
+
