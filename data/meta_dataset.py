@@ -244,7 +244,7 @@ if __name__ == '__main__':
         seed=1
     )
 
-    dset = DatasetCoOp(
+    dset = MetaDataset(
         phase='train',
         dataset=args.dataset,
         num_shots=args.num_shots,
